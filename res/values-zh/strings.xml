@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Derek,All right reserved!</string>
+    <string name="app_name">HTCLBSTest</string>
+    <string name="latitude">纬度</string>
+    <string name="longitude">经度</string>
+    <string name="single">单次 MSA</string>
+    <string name="stop">停止</string>
+    <string name="navigating">导航</string>
+    <string name="gpsDisable_error">请确认设置中的辅助GPS已经打开！</string>
+    <string name="single_shot_end">单次MSA 结束</string>
+	
+</resources>

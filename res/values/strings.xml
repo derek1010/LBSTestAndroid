@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LBSTestForCTActivity!</string>
+    <string name="app_name">HTCLBSTest</string>
+    <string name="navigating">Navigating</string>
+    <string name="single">MSA single shot</string>
+    <string name="stop">Stop</string>
+    <string name="longitude">longitude</string>
+    <string name="latitude">latitude</string>
+    <string name="gpsDisable_error">Please make sure  AGPS  is enable !</string>
+    <string name="single_shot_end">MSA single shot finished</string>
+
+</resources>
